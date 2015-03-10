@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <cs50.h>
+
+/** This area is for any other functions
+ * 
+ * Just in case you decide to create any
+ */
+
+int main(void)
+{
+    /** Main function
+     *
+     */
+}
